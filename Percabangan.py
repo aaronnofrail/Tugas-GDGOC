@@ -1,4 +1,4 @@
-tinggi_badan = [170, 180, 175.4, 159, 150, 185, 174]
+tinggi_badan = [190, 180, 175.4, 189, 180, 185, 174]
 total_tb = sum(tinggi_badan)
 jumlah_mahasiswa = 7
 rata_rata = total_tb/jumlah_mahasiswa
